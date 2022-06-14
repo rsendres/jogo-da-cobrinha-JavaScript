@@ -1,4 +1,4 @@
-SNAKE GAME 🐍
+## SNAKE GAME 🐍
 por: Gabriela Pinheiro
 
 Recriando o jogo da cobrinha com JavaScript
