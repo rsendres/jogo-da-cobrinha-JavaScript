@@ -1,0 +1,21 @@
+:root {
+  --vermelho: #e50914;
+  --preto: #141414;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*elementos base*/
+body {
+  background: var(--preto);
+  font-family: "Arial", Times, serif;
+  color: white;
+}
+#snake {
+  width: 512px;
+  height: 512px;
+}
