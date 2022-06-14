@@ -1,8 +1,3 @@
-:root {
-  --vermelho: #e50914;
-  --preto: #141414;
-}
-
 * {
   margin: 0;
   padding: 0;
@@ -17,9 +12,4 @@ body{
     flex-direction: column;
     color: rgb(109, 175, 236);
 }
-/*elementos base*/
 
-#snake {
-  width: 512px;
-  height: 512px;
-}
